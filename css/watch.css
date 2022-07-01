@@ -1,0 +1,32 @@
+.card:hover{
+    transform: translateY(0%) !important;
+}
+.watch-page .watch-icons{
+    position: absolute;
+    bottom: 5px;
+    right: 20px;
+}
+.watch-icons i:hover{
+    cursor: pointer;
+}
+.watch-page #more{
+    display: none;
+}
+.card-inner{
+    display: none;
+}
+.public-comments .card .btn {
+    background-color: #0909d6 ;
+    border-color: #0909d6 ;
+    color: #fff;
+}
+.public-comments .card .btn:hover{
+    background-color: #151580;
+}
+time {
+    left: 24px !important;
+
+}
+.watch-page .fa-play { 
+    right: 46% !important;
+}

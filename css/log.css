@@ -1,0 +1,19 @@
+.history-right-column {
+    background-color: #fff;
+    height: 566px;
+}
+.list-group-item.active{
+    background-color: #0909d6;
+    border-color: #0909d6;
+
+}
+@media (min-width: 768px) and (max-width: 992px){
+    .card .card-horizontal .card-body .channel-img{
+        display: block;
+        margin-top: 10px;
+    }
+    .card .card-horizontal .card-body .channel-img>img {
+        margin-right: 0px !important;
+    }
+}
+    
